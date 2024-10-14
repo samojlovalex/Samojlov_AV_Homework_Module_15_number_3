@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_width">0dp</dimen>
+
+    <dimen name="tabIndicatorHeight">4dp</dimen>
+
+</resources>
